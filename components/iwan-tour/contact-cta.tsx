@@ -21,7 +21,7 @@ export default function ContactCTA() {
         <div className="mt-6">
           <Button asChild className="bg-gradient-to-r from-primary to-primary/80 text-primary-foreground">
             <a
-              href="https://wa.me/6281234567890"
+              href="https://wa.me/628125670005?text=Assalamu%27alaikum%20Iwan%20Tour%2C%20saya%20ingin%20konsultasi%20mengenai%20paket%20perjalanan%20ibadah."
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Open WhatsApp chat"
