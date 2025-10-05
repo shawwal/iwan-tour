@@ -8,9 +8,8 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Iwan Tour - Umrah, Haji, dan Wisata Halal",
+  description: "Partner terpercaya Anda untuk perjalanan ibadah Umrah, Haji, dan wisata halal yang aman dan nyaman.",
 }
 
 export default function RootLayout({
